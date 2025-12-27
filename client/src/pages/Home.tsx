@@ -23,7 +23,12 @@ export default function Home() {
       topics: ["区块链原理", "以太坊基础", "EVM机制", "Gas费用模型", "MetaMask实践"],
       resources: [
         { name: "北京大学肖臻公开课", url: "https://www.bilibili.com/video/BV1Vt411X7JF" },
+        { name: "MIT Blockchain and Money", url: "https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/" },
+        { name: "Bitcoin Whitepaper", url: "https://bitcoin.org/bitcoin.pdf" },
+        { name: "Ethereum Whitepaper", url: "https://ethereum.org/en/whitepaper/" },
+        { name: "Solana Whitepaper", url: "https://solana.com/solana-whitepaper.pdf" },
         { name: "以太坊官方文档", url: "https://ethereum.org/en/developers/docs/" },
+        { name: "Solana官方文档", url: "https://docs.solana.com/" },
         { name: "登链社区", url: "https://learnblockchain.cn/" }
       ]
     },
@@ -36,9 +41,18 @@ export default function Home() {
       description: "掌握Solidity语言，编写安全的智能合约",
       topics: ["Solidity语法", "Remix IDE", "Foundry框架", "ERC-20标准", "ERC-721 NFT"],
       resources: [
+        { name: "Ethereum官方文档-智能合约", url: "https://ethereum.org/en/developers/docs/smart-contracts/" },
+        { name: "Gas和Fee介绍", url: "https://ethereum.org/en/developers/docs/gas/" },
+        { name: "Mastering Ethereum", url: "https://github.com/ethereumbook/ethereumbook" },
+        { name: "EVM介绍", url: "https://ethereum.org/en/developers/docs/evm/" },
         { name: "CryptoZombies", url: "https://cryptozombies.io/" },
         { name: "WTF Solidity", url: "https://github.com/AmazingAng/WTF-Solidity" },
-        { name: "Solidity by Example", url: "https://solidity-by-example.org/" }
+        { name: "Solidity by Example", url: "https://solidity-by-example.org/" },
+        { name: "Remix IDE", url: "https://remix.ethereum.org/" },
+        { name: "Truffle框架", url: "https://trufflesuite.com/" },
+        { name: "Brownie框架", url: "https://eth-brownie.readthedocs.io/" },
+        { name: "Hardhat框架", url: "https://hardhat.org/" },
+        { name: "OpenZeppelin", url: "https://docs.openzeppelin.com/" }
       ]
     },
     {
@@ -50,9 +64,12 @@ export default function Home() {
       description: "构建DApp后端服务，实现链上链下交互",
       topics: ["viem.sh/ethers.js", "事件监听", "交易签名", "钱包集成", "API开发"],
       resources: [
+        { name: "DApp架构介绍", url: "https://ethereum.org/en/developers/docs/dapps/" },
+        { name: "Web2和Web3的区别", url: "https://ethereum.org/en/web3/" },
         { name: "Viem文档", url: "https://viem.sh/" },
         { name: "Ethers.js文档", url: "https://docs.ethers.org/" },
-        { name: "Alchemy SDK", url: "https://www.alchemy.com/" }
+        { name: "Alchemy SDK", url: "https://www.alchemy.com/" },
+        { name: "Ethereum Development with Go", url: "https://geth.ethereum.org/docs" }
       ]
     },
     {
@@ -64,6 +81,11 @@ export default function Home() {
       description: "深入DeFi协议，掌握智能合约安全最佳实践",
       topics: ["Uniswap源码", "借贷协议", "安全漏洞", "Slither工具", "审计实践"],
       resources: [
+        { name: "Uniswap V2 Core", url: "https://docs.uniswap.org/contracts/v2/overview" },
+        { name: "Uniswap V3 Whitepaper", url: "https://uniswap.org/whitepaper-v3.pdf" },
+        { name: "AAVE官方文档", url: "https://docs.aave.com/" },
+        { name: "ERC-721标准", url: "https://ethereum.org/en/developers/docs/standards/tokens/erc-721/" },
+        { name: "ERC-1155标准", url: "https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/" },
         { name: "Ethernaut", url: "https://ethernaut.openzeppelin.com/" },
         { name: "Damn Vulnerable DeFi", url: "https://www.damnvulnerabledefi.xyz/" },
         { name: "How to DeFi", url: "https://www.howtodefi.com/" }
@@ -78,6 +100,12 @@ export default function Home() {
       description: "探索多链生态，掌握前沿技术",
       topics: ["Rust语言", "Solana生态", "Move语言", "Layer2技术", "跨链协议"],
       resources: [
+        { name: "Solana Anchor官方教程", url: "https://docs.anchor-lang.com/" },
+        { name: "Solana部署文档", url: "https://docs.solana.com/cli/deploy-a-program" },
+        { name: "Farcaster Protocol", url: "https://docs.farcaster.xyz/" },
+        { name: "Lens Protocol", url: "https://docs.lens.xyz/" },
+        { name: "Optimism", url: "https://docs.optimism.io/" },
+        { name: "Arbitrum", url: "https://docs.arbitrum.io/" },
         { name: "Solana文档", url: "https://docs.solana.com/" },
         { name: "Substrate文档", url: "https://docs.substrate.io/" },
         { name: "Sui/Aptos文档", url: "https://sui.io/" }
