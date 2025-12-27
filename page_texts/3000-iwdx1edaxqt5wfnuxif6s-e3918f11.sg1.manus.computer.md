@@ -54,22 +54,57 @@ C++背景使学习Rust更轻松，进入Solana/Polkadot高薪生态
 2-4周
 区块链基础
 建立对区块链技术的基本认知，理解EVM工作机制
+推荐资源:
+- [MIT Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/)
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+- [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
+- [Vitalik: Proof of Stake](https://vitalik.eth.limo/general/2017/12/31/pos_faq.html#what-is-proof-of-stake)
+- [Solana Docs](https://docs.anza.xyz/clusters)
 阶段 2
 4-8周
 Solidity智能合约
 掌握Solidity语言，编写安全的智能合约
+推荐资源:
+- [Ethereum Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
+- [Gas and Fees](https://ethereum.org/en/developers/docs/gas/)
+- [Solana Core Concepts](https://solana.com/docs/core)
+- [Mastering Ethereum (Ch 7-10)](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
+- [Solidity By Example](https://solidity-by-example.org/hello-world/)
+- [Remix IDE](https://remix.ethereum.org/)
+- [OpenZeppelin](https://www.openzeppelin.com)
 阶段 3
 4-6周
 Web3后端开发
 构建DApp后端服务，实现链上链下交互
+推荐资源:
+- [Ethereum DApp Architecture](https://ethereum.org/en/developers/docs/dapps/)
+- [Web2 vs Web3](https://ethereum.org/en/developers/docs/web2-vs-web3/)
+- [Ethereum Development with Go](https://goethereumbook.org/en/)
+- [Truffle](https://github.com/trufflesuite/truffle)
+- [Hardhat](https://github.com/NomicFoundation/hardhat)
+- [Brownie](https://github.com/eth-brownie/brownie)
+- [Solana Anchor](https://www.anchor-lang.com/docs)
 阶段 4
 4-8周
 DeFi与安全
 深入DeFi协议，掌握智能合约安全最佳实践
+推荐资源:
+- [Uniswap v2 Core](https://github.com/Uniswap/v2-core)
+- [Uniswap v3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+- [AAVE Docs](https://docs.aave.com/)
+- [ERC-721](https://eips.ethereum.org/EIPS/eip-721)
+- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155)
+- [Axie Whitepaper](https://whitepaper.axieinfinity.com/)
+- [Farcaster Docs](https://docs.farcaster.xyz/)
+- [Lens Protocol](https://docs.lens.xyz/docs/intro)
 阶段 5
 持续学习
 进阶与专业化
 探索多链生态，掌握前沿技术
+推荐资源:
+- [Optimism](https://docs.optimism.io/)
+- [Arbitrum](https://developer.arbitrum.io/)
 精选资源
 高质量学习资源
 
